@@ -1,0 +1,18 @@
+<routes>
+
+
+<route id="route_0" edges="e1 e2 e3 e4 e5 e6"/>
+
+<vehicle id="car_14" depart="0" maxSpeed="20" guiShape='passenger/wagon' departPos="20" route="route_0"/>
+<vehicle id="car_15" depart="0" maxSpeed="20" guiShape='passenger/wagon' departPos="40" route="route_0"/>
+<vehicle id="car_16" depart="0" maxSpeed="20" guiShape='passenger/wagon' departPos="20" route="route_0"/>
+<vehicle id="car_13" depart="0" maxSpeed="20" guiShape='passenger/wagon' departPos="0" route="route_0"/>
+<vehicle id="car_12" depart="2" maxSpeed="20" guiShape='passenger/wagon' departPos="0" route="route_0"/>
+<vehicle id="car_11" depart="4" maxSpeed="20" guiShape='passenger/wagon' departPos="0" route="route_0"/>
+
+
+<!-- <flow id="carflow" type="car" beg="0" end="0" number="5" from="e1" to="e7"/> -->
+<!--<vehicle id="0" type="car" route="route_0" depart="0"/>-->
+
+
+</routes>
